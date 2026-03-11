@@ -8,7 +8,7 @@ import { motion } from "motion/react";
 
 
 export default function HeroSection() {
-  return (
+  return ( 
         <div className="md:flex grid md:flex-cols-2 md:pl-36 py-1 md:py-16 font-sans">
             {/* Left Section: Text and Button Content */}
             <motion.div
