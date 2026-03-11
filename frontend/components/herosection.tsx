@@ -3,7 +3,7 @@
 import { Button } from "@mui/material";
 import { BsArrowUpRightCircle } from "react-icons/bs";
 import Image from "next/image";
-import { motion } from "motion/react"; 
+import { motion } from "motion/react";
 
 
 
