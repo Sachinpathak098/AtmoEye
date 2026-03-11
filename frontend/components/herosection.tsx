@@ -11,7 +11,7 @@ export default function HeroSection() {
   return (
         <div className="md:flex grid md:flex-cols-2 md:pl-36 py-1 md:py-16 font-sans">
             {/* Left Section: Text and Button Content */}
-            <motion.div 
+            <motion.div
                 variants= {{
                     hidden: { opacity: 0 },
                     show: {
