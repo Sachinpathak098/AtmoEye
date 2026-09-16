@@ -193,3 +193,7 @@ test_model(normal_uveitis_model, normal_uveitis_test_loader, valid_labels_uveiti
 
 torch.save(model.state_dict(), "cataracts_model.pth")
 torch.save(normal_uveitis_model.state_dict(), "uveitis_model.pth")
+
+
+
+
